@@ -7,6 +7,14 @@
       "path": "8bit_crack.lua",
       "createdAt": "2025-03-23T12:56:11.633Z",
       "updatedAt": "2025-03-23T12:56:11.633Z"
+    },
+    {
+      "id": "3b5889d0-1ab2-4084-8e4a-5afa82f4b354",
+      "name": "8bit_testcrack",
+      "description": "sigma crack",
+      "path": "8bit_testcrack.lua",
+      "createdAt": "2025-03-23T13:01:57.388Z",
+      "updatedAt": "2025-03-23T13:01:57.388Z"
     }
   ],
   "sources": [
