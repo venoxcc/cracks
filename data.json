@@ -1,0 +1,13 @@
+{
+  "cracks": [
+    {
+      "id": "25c7a6ac-22af-4733-8c09-41ec67846dd2",
+      "name": "8bit_crack",
+      "description": "sigma 8bit crack test",
+      "path": "8bit_crack.lua",
+      "createdAt": "2025-03-23T12:56:11.633Z",
+      "updatedAt": "2025-03-23T12:56:11.633Z"
+    }
+  ],
+  "sources": []
+}
