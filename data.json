@@ -9,5 +9,15 @@
       "updatedAt": "2025-03-23T12:56:11.633Z"
     }
   ],
-  "sources": []
+  "sources": [
+    {
+      "id": "421a2e03-17ad-4a8d-9cf6-06aa60047ccf",
+      "name": "src_test",
+      "url": "https://raw.githubusercontent.com/8bits4ya/pubcon/refs/heads/main/cats-config.json",
+      "path": "sources/8bit/src_test.lua",
+      "subFolder": "8bit",
+      "createdAt": "2025-03-23T13:01:36.485Z",
+      "updatedAt": "2025-03-23T13:01:36.485Z"
+    }
+  ]
 }
