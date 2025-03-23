@@ -35,6 +35,15 @@
       "subFolder": "gyat",
       "createdAt": "2025-03-23T13:05:05.727Z",
       "updatedAt": "2025-03-23T13:05:05.727Z"
+    },
+    {
+      "id": "e28b97fe-522b-4f61-b8f1-63f1bf4fcdd6",
+      "name": "cats-config.json",
+      "url": "https://raw.githubusercontent.com/8bits4ya/pubcon/refs/heads/main/cats-config.json",
+      "path": "sources/gyattt/cats-config.json",
+      "subFolder": "gyattt",
+      "createdAt": "2025-03-23T13:07:04.135Z",
+      "updatedAt": "2025-03-23T13:07:04.135Z"
     }
   ]
 }
