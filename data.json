@@ -26,6 +26,15 @@
       "subFolder": "8bit",
       "createdAt": "2025-03-23T13:01:36.485Z",
       "updatedAt": "2025-03-23T13:01:36.485Z"
+    },
+    {
+      "id": "57af42ac-bacc-4eb8-a2dc-0454745aecc1",
+      "name": "test",
+      "url": "http://raw.githubusercontent.com/8bits4ya/pubcon/refs/heads/main/cats-config.json",
+      "path": "sources/gyat/test.json",
+      "subFolder": "gyat",
+      "createdAt": "2025-03-23T13:05:05.727Z",
+      "updatedAt": "2025-03-23T13:05:05.727Z"
     }
   ]
 }
