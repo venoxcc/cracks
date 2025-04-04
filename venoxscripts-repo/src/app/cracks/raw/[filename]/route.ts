@@ -4,8 +4,11 @@ import { NextResponse } from "next/server"
 import fs from "fs"
 import path from "path"
 
-export async function GET(request: Request, { params }: { params: { filename: string } }) {
-  const { filename } = params  // Access params here
+export async function GET(
+  request: Request,
+  { params }: { params: Promise<{ filename: string }> }
+) {
+   const filename = (await params).filename; 
   const filePath = path.join(process.cwd(), "content", "cracks", filename)
 
   try {
