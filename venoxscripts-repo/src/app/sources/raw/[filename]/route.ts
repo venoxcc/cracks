@@ -3,8 +3,11 @@ import { type NextRequest, NextResponse } from "next/server"
 import fs from "fs"
 import path from "path"
 
-export async function GET(request: NextRequest, { params }: { params: { filename: string } }) {
-  const { filename } = params
+export async function GET(
+  request: Request,
+  { params }: { params: Promise<{ filename: string }> }
+) {
+   const filename = (await params).filename; 
   const filePath = path.join(process.cwd(), "content", "sources", filename)
 
   try {
