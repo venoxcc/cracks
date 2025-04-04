@@ -16,7 +16,7 @@ export async function GET(
       return new NextResponse("File not found", { status: 404 })
     }
 
-    const content = fs.readFileSync(filePath, "utf-8")  // Read file content
+    const content = fs.readFileSync(filePath, "utf-16le")  // Read file content
 
     return new NextResponse(content, {
       headers: {
