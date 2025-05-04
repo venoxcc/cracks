@@ -20,7 +20,7 @@ export async function GET(
     // Return content as plain text with UTF-16LE encoding
     return new NextResponse(content, {
       headers: {
-        "Content-Type": "text/plain; charset=utf-16le",
+        "Content-Type": "text/plain; charset=utf8",
         "X-Content-Type-Options": "nosniff",
       },
     })
