@@ -9,7 +9,7 @@ export default function Home() {
       <section className="w-full py-12 md:py-24 lg:py-32 flex flex-col items-center text-center">
         <div className="space-y-4">
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-            <span className="text-primary">venoxscripts - ~welcome!</span>
+            <span className="text-primary">scripts - ~welcome!</span>
           </h1>
           <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
             all my cracks, and sources — in one place..
